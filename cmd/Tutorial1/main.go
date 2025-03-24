@@ -13,7 +13,6 @@ func factorial(a int) int {
 func main() {
 
 	var fact int = factorial(5)
-
 	fmt.Printf("the factorial of 5 is %d\n", fact)
 
 }
